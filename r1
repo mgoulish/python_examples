@@ -1,0 +1,4 @@
+#! /bin/bash
+
+python 01_hello_world.py
+
